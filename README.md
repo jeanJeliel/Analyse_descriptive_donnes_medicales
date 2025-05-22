@@ -4,6 +4,7 @@ Ce mini-projet en R vise à réaliser une analyse descriptive des données relat
 diabète, afin de comprendre la distribution des variables et les relations entre elles.
 
 Le fichier de données diabetes.csv contient les variables suivantes :
+
 • Pregnancies : Nombre de grossesses.
 • Glucose : Niveau de glucose sanguin.
 • BloodPressure : Pression artérielle (mm Hg).
